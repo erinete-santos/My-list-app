@@ -144,7 +144,7 @@ Sinta-se à vontade para estudar, modificar e utilizar o código como referênci
     <img src="https://img.shields.io/badge/GitHub-erinete%20santos-181717?logo=github" alt="GitHub Badge"/>
   </a>
 
-  <a href="www.linkedin.com/in/erinete-rodrigues">
+  <a href="https://www.linkedin.com/in/erinete-rodrigues">
     <img src="https://img.shields.io/badge/LinkedIn-erinete%20santos-0A66C2?logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </div>
